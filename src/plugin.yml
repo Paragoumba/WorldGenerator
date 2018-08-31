@@ -1,0 +1,5 @@
+name: WorldGenerator
+author: Paragoumba
+version: 0.5b5
+main: WorldGenerator
+load: STARTUP
